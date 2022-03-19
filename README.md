@@ -4,7 +4,13 @@
 
 <div style="display: inline_block">
   Perfil pessoal, estudando programação.
-  <iframe src="https://giphy.com/embed/J2xMuBFMLH0SOYdZP1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arcade-gameover-kritipedia-J2xMuBFMLH0SOYdZP1">via GIPHY</a></p>
+</div>
+
+<div  align="left">
+  <a href="https://github.com/b1doia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b1doia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1doia&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   <h1> Linguagens </h1>
   <img align="center" alt="Aqui tem um código de JS" height="30" width="40"
