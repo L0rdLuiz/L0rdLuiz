@@ -3,7 +3,7 @@
 </h1>
 
 <div style="display: inline_block">
-  
+  Perfil pessoal, estudando programação.
 
   <h1> Linguagens </h1>
   <img align="center" alt="Aqui tem um código de JS" height="30" width="40"
