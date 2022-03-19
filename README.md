@@ -4,6 +4,7 @@
 
 <div style="display: inline_block">
   Perfil pessoal, estudando programação.
+  <iframe src="https://giphy.com/embed/J2xMuBFMLH0SOYdZP1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/arcade-gameover-kritipedia-J2xMuBFMLH0SOYdZP1">via GIPHY</a></p>
 
   <h1> Linguagens </h1>
   <img align="center" alt="Aqui tem um código de JS" height="30" width="40"
