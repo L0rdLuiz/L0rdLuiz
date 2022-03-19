@@ -5,7 +5,7 @@
 <div style="display: inline_block">
   Perfil pessoal, estudando programação.
 </div>
-
+<br />
 
 <div  align="left">
   <a href="https://github.com/L0rdLuiz">
