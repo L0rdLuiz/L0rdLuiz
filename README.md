@@ -2,12 +2,16 @@
   Meu Perfil de Estudos de <strong>JavaScript</strong>
 </h1>
 
-<div style="display: inline_block">
+<div align="center">
+  <img src="https://media2.giphy.com/media/tAsb13a9tibQs/giphy.gif?cid=ecf05e47ymyon4sh5ra22xcvm5zspvuvq2pv81rk5u6gigwh&rid=giphy.gif&ct=g" width="300px" />
+</div>
+
+<div align="center" style="display: inline_block">
   Perfil pessoal, estudando programação.
 </div>
 <br />
 
-<div  align="left">
+<div  align="center">
   <a href="https://github.com/L0rdLuiz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L0rdLuiz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLuiz&layout=compact&langs_count=7&theme=dark"/>
