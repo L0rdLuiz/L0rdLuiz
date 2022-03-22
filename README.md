@@ -26,4 +26,4 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </div>
 
-![snake gif](https://github.com/L0rdLuiz/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/L0rdLuiz/README.md/blob/output/github-contribution-grid-snake.svg)
