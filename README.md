@@ -11,6 +11,8 @@
 </div>
 <br />
 
+[![L0rdLuiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0rdLuiz)](https://github.com/anuraghazra/github-readme-stats)
+
   <h1> Linguagens </h1>
   <img align="center" alt="Aqui tem um código de JS" height="30" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
