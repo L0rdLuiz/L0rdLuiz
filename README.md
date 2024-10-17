@@ -12,6 +12,7 @@
 <br />
 
 [![L0rdLuiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0rdLuiz)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L0rdLuiz&layout=compact)
 
   <h1> Linguagens </h1>
   <img align="center" alt="Aqui tem um código de JS" height="30" width="40"
